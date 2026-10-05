@@ -9,7 +9,7 @@ export default function TestimonialSection() {
           <span className="material-symbols-outlined text-[48px] text-primary-container/30 mb-6">
             format_quote
           </span>
-          <blockquote className="font-headline-lg text-headline-lg text-primary tracking-tight italic font-serif leading-relaxed mb-6">
+          <blockquote className="font-subheading text-headline-lg text-primary tracking-tight italic font-serif leading-relaxed mb-6">
             “Điều mình thích nhất là các bạn nhân viên rất chủ động. Mình không
             phải tất bật chạy đi xử lý từng việc lặt vặt, mà có thể trọn vẹn
             ngồi ăn ngon và hàn huyên với những người bạn thân.”
